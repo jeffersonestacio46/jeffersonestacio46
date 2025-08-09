@@ -63,8 +63,8 @@ Meu nome é Jefferson Oliveira, tenho 26 anos e estou cursando ADS (Análise e D
 
 <img 
         align="left" 
-        alt="Estatisticas Github"
-        title="Estatisticas Github" 
+        alt="Tecnologias"
+        title="Tecnologias" 
         width="400" 
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonestacio46&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" />
