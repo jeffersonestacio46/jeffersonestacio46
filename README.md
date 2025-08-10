@@ -75,7 +75,7 @@ Meu nome é Jefferson Oliveira, tenho 26 anos e estou cursando ADS (Análise e D
         title="Tecnologias" 
         width="400" 
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonestacio46&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonestacio46&theme=dark&layout=compact&custom_title=Tecnologias" />
 
 <!--
 **jeffersonestacio46/jeffersonestacio46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
