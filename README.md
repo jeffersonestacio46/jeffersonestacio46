@@ -46,8 +46,8 @@ Meu nome é Jefferson Oliveira, tenho 26 anos e estou cursando ADS (Análise e D
 
 <img 
         align="left" 
-        alt="Linux"
-        title="Linux" 
+        alt="Github Codespaces"
+        title="Github Codespaces" 
         width="30px" 
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
