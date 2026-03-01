@@ -2,7 +2,7 @@
 
 **Desevolvedor backend**
 
-Meu nome é Jefferson Oliveira, tenho 26 anos e estou cursando ADS (Análise e Desenvolvimento de Sistemas). Amo tecnologia e compartilho meus conhecimentos através desse GitHub. Espero que eu possa facilitar as vidas das pessoas através de códigos. Meu Linkedin "[Jefferson Oliveira](https://www.linkedin.com/in/jefferson-oliveira-433556234/)"
+Meu nome é Jefferson Oliveira,e estou cursando ADS (Análise e Desenvolvimento de Sistemas). Amo tecnologia e compartilho meus conhecimentos através desse GitHub. Espero que eu possa facilitar as vidas das pessoas através de códigos. Meu Linkedin "[Jefferson Oliveira](https://www.linkedin.com/in/jefferson-oliveira-433556234/)"
 
 ##
 ### 🤖Linguagens e Tecnologias
